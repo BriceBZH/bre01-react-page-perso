@@ -1,0 +1,27 @@
+main {
+    width: 80%;
+}
+h1 {
+    color: #ff5555;
+}
+h2 {
+    color : #8be9f2;
+}
+section:first-of-type ul li {
+    font-size: 1.3rem;
+}
+section:first-of-type li:first-child {
+    background-color: #50fa7b;
+}
+section:first-of-type li:nth-child(2) {
+    background-color: #ffb86c;
+}
+section:first-of-type li:nth-child(3) {
+    background-color: #ff79c6;
+}
+section:first-of-type li:nth-child(4) {
+    background-color: #f1fa8c;
+}
+section:nth-of-type(2) h3 {
+    color : #bd93f9;
+}
