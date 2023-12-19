@@ -7,6 +7,9 @@ h1 {
 h2 {
     color : #8be9f2;
 }
+h3 {
+    display: inline-block;
+}
 section:first-of-type ul li {
     font-size: 1.3rem;
 }
